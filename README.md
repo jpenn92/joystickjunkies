@@ -35,5 +35,14 @@ The project evolved across six lab submissions, improving visual design, code or
 
 ![Joystick Junkies Overview](images/joystick-junkies-overview.png)
 
+### Home Page
+![Home Page](images/joystick-junkies-home-page.png)
+
+### Gaming Systems Page
+![Gaming Systems](images/joystick-junkies-gaming-systems.png)
+
+### Top Games Page
+![Top Games](images/josytick-junkies-top-games.png)
+
 ## 📂 Project Structure
 
