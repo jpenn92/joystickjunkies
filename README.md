@@ -42,4 +42,3 @@ The project evolved across six lab submissions, improving visual design, code or
 ### 🎮 Top Games Page
 ![Top Games](./images/joystick-junkies-top-games.png)
 
-## 📂 Project Structure
